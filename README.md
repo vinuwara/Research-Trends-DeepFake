@@ -1,4 +1,4 @@
-#Evolution of Deepfake Technology
+## Evolution of Deepfake Technology
 ![DALL·E 2024-12-15 19 22 13 - A realistic depiction of a side-by-side comparison_ one image of a human face in its natural form and the other showing a digitally altered version wi](https://github.com/user-attachments/assets/80b772c2-9335-482a-b6e9-c32d26bdccf0)
 
 ## Overview
